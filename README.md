@@ -9,3 +9,5 @@ Ganxz12/Ganxz12 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 git clone https://github.com/mfr-fr/sms-sender.git
+git clone https://github.com/mfr-fr/sms-sender.gitpip install -r requirements.Ghany
+python sms-sender.py
